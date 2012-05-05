@@ -1,0 +1,9 @@
+c:\users\lucas s. wundervald\documents\visual studio 2010\Projects\Editor de Texto\Editor de Texto\bin\Debug\Editor de Texto.exe
+c:\users\lucas s. wundervald\documents\visual studio 2010\Projects\Editor de Texto\Editor de Texto\bin\Debug\Editor de Texto.pdb
+c:\users\lucas s. wundervald\documents\visual studio 2010\Projects\Editor de Texto\Editor de Texto\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\lucas s. wundervald\documents\visual studio 2010\Projects\Editor de Texto\Editor de Texto\obj\x86\Debug\Editor_de_Texto.frmPrincipal.resources
+c:\users\lucas s. wundervald\documents\visual studio 2010\Projects\Editor de Texto\Editor de Texto\obj\x86\Debug\Editor_de_Texto.Properties.Resources.resources
+c:\users\lucas s. wundervald\documents\visual studio 2010\Projects\Editor de Texto\Editor de Texto\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\lucas s. wundervald\documents\visual studio 2010\Projects\Editor de Texto\Editor de Texto\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\lucas s. wundervald\documents\visual studio 2010\Projects\Editor de Texto\Editor de Texto\obj\x86\Debug\Editor de Texto.exe
+c:\users\lucas s. wundervald\documents\visual studio 2010\Projects\Editor de Texto\Editor de Texto\obj\x86\Debug\Editor de Texto.pdb
